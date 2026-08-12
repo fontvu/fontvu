@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fontvu
 - 👀 I’m interested in Cybersecurity/Infosec.
-- 🌱 I’m a script kiddie who is studying Cyber Security at Brandenburg University of Technology.
-- 📫 Reach me fontvu@Twitter
+- 🌱 I’m a script-kiddie disguised as an office worker, moonlighting as an IT Security Engineer.
+- 📫 Reach me f0ntvu@Twitter
 
 <!---
 fontvu/fontvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
