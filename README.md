@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,100:00e5ff&height=200&section=header&text=%40FONTVU&fontSize=75&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=IT%20Security%20Engineer&descAlignY=58&descSize=22" width="100%" alt="header"/>
+<picture>
+  <img src="https://raw.githubusercontent.com/fontvu/fontvu/main/assets/banner.svg" alt="fontvu cyberpunk banner" width="100%" />
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FF2E97&center=true&vCenter=true&width=620&lines=IT+Security+Engineer+%E2%9A%94%EF%B8%8F;Offensive+%26+Defensive+Security;Cyberpunk+Profile+%3A%3A+online+%F0%9F%9F%A2;Red+Team+%7C+Blue+Team+%7C+AppSec;Always+learning.+Always+hacking." alt="typing intro"/>
 
