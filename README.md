@@ -1,11 +1,3 @@
-<div align="center">
-
-![](https://img.shields.io/badge/%E2%9A%A1-CYBERSECURITY-fcee0a?style=for-the-badge&labelColor=050c16)
-![](https://img.shields.io/badge/%F0%9F%94%92-INFOSEC-08dfec?style=for-the-badge&labelColor=050c16)
-![](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-IT%20SECURITY%20ENGINEER-ff005f?style=for-the-badge&labelColor=050c16)
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
 
 ## `whoami`
