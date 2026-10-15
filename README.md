@@ -4,8 +4,6 @@
   <img src="https://raw.githubusercontent.com/fontvu/fontvu/main/assets/banner.svg" alt="fontvu cyberpunk banner" width="100%" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FCEE0A&center=true&vCenter=true&width=620&lines=IT+Security+Engineer+%E2%9A%94%EF%B8%8F;Offensive+%26+Defensive+Security;Cyberpunk+Profile+%3A%3A+online+%F0%9F%9F%A2;Red+Team+%7C+Blue+Team+%7C+AppSec;Always+learning.+Always+hacking." alt="typing intro"/>
-
 <br/>
 
 ![](https://img.shields.io/badge/%E2%9A%A1-CYBERSECURITY-fcee0a?style=for-the-badge&labelColor=050c16)
@@ -94,19 +92,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
 
 <div align="center">
-
-### 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fontvu&show_icons=true&theme=radical&hide_border=true&bg_color=050c16&title_color=fcee0a&icon_color=08dfec&text_color=ffffff&ring_color=ff005f" alt="github stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontvu&layout=compact&theme=radical&hide_border=true&bg_color=050c16&title_color=fcee0a&text_color=ffffff" alt="top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=fontvu&theme=neon-dark&hide_border=true&background=050c16&stroke=fcee0a&ring=ff005f&fire=08dfec&currStreakLabel=ffffff" alt="streak stats"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
 
 ## 🎯 Featured Research & Projects
 
