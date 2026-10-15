@@ -91,8 +91,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
 
-<div align="center">
-
 ## 🎯 Featured Research & Projects
 
 ```text

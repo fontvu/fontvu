@@ -106,8 +106,8 @@
 
   <!-- top status line -->
   <g font-family="'JetBrains Mono','Consolas','Menlo',monospace" font-size="12" fill="#08dfec" letter-spacing="2">
-    <text x="96" y="46">// OPERATOR :: FONTVU</text>
-    <text x="1104" y="46" text-anchor="end" fill="#fcee0a">SECURITY clearance LVL 9</text>
+    <text x="96" y="46">// operator :: fontvu</text>
+    <text x="1104" y="46" text-anchor="end" fill="#fcee0a">security clearance lvl 9</text>
   </g>
 
   <!-- subtitle pill -->
