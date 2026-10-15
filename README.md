@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <img src="https://raw.githubusercontent.com/fontvu/fontvu/main/assets/banner.svg" alt="fontvu cyberpunk banner" width="100%" />
-</picture>
-
-<br/>
-
 ![](https://img.shields.io/badge/%E2%9A%A1-CYBERSECURITY-fcee0a?style=for-the-badge&labelColor=050c16)
 ![](https://img.shields.io/badge/%F0%9F%94%92-INFOSEC-08dfec?style=for-the-badge&labelColor=050c16)
 ![](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-IT%20SECURITY%20ENGINEER-ff005f?style=for-the-badge&labelColor=050c16)
