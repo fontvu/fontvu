@@ -91,25 +91,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
 
-<div align="center">
-
-## 🎯 Featured Research & Projects
-
-```text
-[ access log :: /var/log/projects ]
-├─ project-01  ·  coming soon ─ "your next tool/write-up goes here"
-├─ project-02  ·  coming soon
-└─ notes       ·  drop your GitHub repos / CTF write-ups below
-```
-
-> _Replace the placeholder rows with your real projects, CTF write-ups, tools, or research links._
-
-- 🔗 [Your Repo / Tool #1](https://github.com/fontvu) — one-line description
-- 🔗 [Your Repo / Tool #2](https://github.com/fontvu) — one-line description
-- 📝 [CTF Write-up / Blog #1](https://github.com/fontvu) — one-line description
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
-
 ## 📡 Connect
 
 <div align="center">
