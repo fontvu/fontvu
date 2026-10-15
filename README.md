@@ -82,9 +82,9 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Twitter-@f0ntvu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=050c16)](https://twitter.com/f0ntvu)
-[![](https://img.shields.io/badge/Email-YOUR_EMAIL-fcee0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050c16)](mailto:fontvu@pm.me)
-[![](https://img.shields.io/badge/LinkedIn-YOUR_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050c16)](https://linkedin.com/in/fontvu)
-[![](https://img.shields.io/badge/Discord-YOUR_TAG-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050c16)](https://discord.com/users/r0terv0gel)
+[![](https://img.shields.io/badge/Email-fontvu@pm.e-fcee0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050c16)](mailto:fontvu@pm.me)
+[![](https://img.shields.io/badge/LinkedIn-fontvu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050c16)](https://linkedin.com/in/fontvu)
+[![](https://img.shields.io/badge/Discord-r0terv0gel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050c16)](https://discord.com/users/r0terv0gel)
 [![](https://img.shields.io/badge/GitHub-fontvu-08dfec?style=for-the-badge&logo=github&logoColor=white&labelColor=050c16)](https://github.com/fontvu)
 
 </div>
