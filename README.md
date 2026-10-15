@@ -82,14 +82,12 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Twitter-@f0ntvu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=050c16)](https://twitter.com/f0ntvu)
-[![](https://img.shields.io/badge/Email-YOUR_EMAIL-fcee0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050c16)](mailto:YOUR_EMAIL)
-[![](https://img.shields.io/badge/LinkedIn-YOUR_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050c16)](https://linkedin.com/in/YOUR_HANDLE)
-[![](https://img.shields.io/badge/Discord-YOUR_TAG-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050c16)](https://discord.com/users/YOUR_ID)
+[![](https://img.shields.io/badge/Email-YOUR_EMAIL-fcee0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050c16)](mailto:fontvu@pm.me)
+[![](https://img.shields.io/badge/LinkedIn-YOUR_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050c16)](https://linkedin.com/in/fontvu)
+[![](https://img.shields.io/badge/Discord-YOUR_TAG-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050c16)](https://discord.com/users/r0terv0gel)
 [![](https://img.shields.io/badge/GitHub-fontvu-08dfec?style=for-the-badge&logo=github&logoColor=white&labelColor=050c16)](https://github.com/fontvu)
 
 </div>
-
-> _Placeholders `YOUR_EMAIL`, `YOUR_HANDLE`, `YOUR_TAG`, `YOUR_ID` — replace them with your real contact details._
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcee0a,100:08dfec&height=90&section=footer" width="100%" alt="footer"/>
 
@@ -102,5 +100,4 @@
 
 <!-- 
   Visual style :: open2077 (open2077.net) — yellow #fcee0a / cyan #08dfec / magenta #ff005f on navy #050c16
-  Edit freely. Drop your real projects & contact info where indicated.
 -->
