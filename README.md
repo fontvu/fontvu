@@ -3,17 +3,17 @@
 ## `whoami`
 
 ```bash
-┌──(fontvu㉿cyber-core)-[~]
+┌──(fontvu㉿cyberspace)-[~]
 └─$ cat /etc/identity
 
   USER         : fontvu
   ROLE         : IT Security Engineer
-  STATUS       : cyberpunk profile :: online
+  STATUS       : online
   ALIAS        : "script-kiddie disguised as an office worker,
                   moonlighting as an IT Security Engineer."
 
   [✓] offensive security     [✓] defensive security
-  [✓] vulnerability research [✓] secure architecture
+  [✓] data privacy research [✓] secure architecture
   [✓] incident response     [✓] hardening & detection
 
 └─$ _
