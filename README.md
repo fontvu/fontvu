@@ -29,9 +29,10 @@
 
 - 🛡️ **Senior Cybersecurity Specialist at Razer** — 6+ years across incident response, digital forensics, security monitoring and risk & compliance.
 - ☁️ Running security operations across **enterprise and AWS cloud** environments: threat detection, vulnerability assessment and incident response.
-- 🔍 Hands-on with **pentesting, vulnerability assessment**, and **threat hunting**.
-- 🧪 Passionate about **reverse engineering, malware analysis**, and **CTFs**.
-- 🏗️ Advocate of **secure SDLC**, code review, and **defense-in-depth** architecture.
+- 🛠️ **Scripting and automation** (Python, PowerShell, Bash, SQL) for log analysis, monitoring and compliance reporting.
+- ⚖️ Working inside **ISO/IEC 27001, NIST CSF and ISMS**, plus ITGC audits and SOC 2 examinations.
+- 🔐 Day-to-day in **IAM, PAM and IGA** — identity lifecycle, access governance, privilege management.
+- 🏗️ Shipping **CI/CD with security gates** in practice — GitHub Actions, Terraform, Docker, secrets scanning.
 - 📚 Always learning — always sharpening the blade.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
@@ -61,49 +62,49 @@
 
 <div align="center">
 
-**Offensive / Red Team**
+**Security Operations**
 
-![](https://img.shields.io/badge/Kali_Linux-fcee0a?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Burp_Suite-08dfec?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Metasploit-fcee0a?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Nmap-08dfec?style=for-the-badge&logo=nmap&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Ghidra-fcee0a?style=for-the-badge&logo=ghidra&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/CrowdStrike-EDR-red?style=for-the-badge&logo=crowdstrike&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Qualys-VM-blue?style=for-the-badge&logo=qualys&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Forcepoint-DLP-purple?style=for-the-badge&logo=forcepoint&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Forescout-Network-08dfec?style=for-the-badge&logoColor=white&labelColor=050c16)
 
-**Defensive / Blue Team**
+**Identity & Access**
 
-![](https://img.shields.io/badge/Wireshark-08dfec?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Splunk-fcee0a?style=for-the-badge&logo=splunk&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Suricata-08dfec?style=for-the-badge&logo=suricata&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Velociraptor-fcee0a?style=for-the-badge&logo=velociraptor&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/CyberArk-PAM-green?style=for-the-badge&logo=cyberark&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/SailPoint-IGA-orange?style=for-the-badge&logo=sailpoint&logoColor=white&labelColor=050c16)
 
-**AppSec & Engineering**
+**Application Security**
 
-![](https://img.shields.io/badge/OWASP-08dfec?style=for-the-badge&logo=owasp&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Semgrep-fcee0a?style=for-the-badge&logo=semgrep&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Checkmarx-SAST-purple?style=for-the-badge&logoColor=white&labelColor=050c16)
+
+**Scripting & Automation**
+
 ![](https://img.shields.io/badge/Python-08dfec?style=for-the-badge&logo=python&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Go-fcee0a?style=for-the-badge&logo=go&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/PowerShell-08dfec?style=for-the-badge&logo=powershell&logoColor=white&labelColor=050c16)
 ![](https://img.shields.io/badge/Bash-08dfec?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Docker-fcee0a?style=for-the-badge&logo=docker&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Linux-08dfec?style=for-the-badge&logo=linux&logoColor=white&labelColor=050c16)
-![](https://img.shields.io/badge/Git-fcee0a?style=for-the-badge&logo=git&logoColor=white&labelColor=050c16)
 
 **Cloud & Infrastructure**
 
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=050c16)
 ![](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Docker-08dfec?style=for-the-badge&logo=docker&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Terraform-08dfec?style=for-the-badge&logo=terraform&logoColor=white&labelColor=050c16)
+
+**CI/CD**
+
+![](https://img.shields.io/badge/GitHub_Actions-08dfec?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=050c16)
 
 </div>
 
 | Domain | Tooling |
 |:---|:---|
-| **Recon / Enumeration** | Nmap, Amass, Subfinder, Masscan |
-| **Web & API Testing** | Burp Suite, OWASP ZAP, ffuf, Nuclei |
-| **Exploitation** | Metasploit, Impacket, Cobalt Strike (lab) |
-| **Reverse Engineering** | Ghidra, x64dbg, IDA (free) |
-| **Detection & SIEM** | Splunk, ELK, Suricata, YARA |
-| **Forensics** | Volatility, Autopsy, Velociraptor |
-| **Scripting / Dev** | Python, Go, Bash, Docker |
-| **Cloud Security** | AWS, Azure, IAM hardening, threat detection |
+| **Incident Response & Forensics** | Log analysis, timeline reconstruction, evidence handling, post-incident review |
+| **Detection & Monitoring** | SIEM telemetry, EDR alerting, vulnerability scanning, DLP |
+| **Identity & Access** | IAM hardening, PAM (CyberArk), IGA (SailPoint), access governance |
+| **Risk & Compliance** | ISO/IEC 27001, NIST CSF, ISMS, ITGC audits, SOC 2 |
+| **Scripting / Automation** | Python, PowerShell, Bash, SQL |
+| **Cloud & Infrastructure** | AWS, Azure, Docker, Terraform, GitHub Actions |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
 
