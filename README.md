@@ -112,6 +112,7 @@
 
 <div align="center">
 
+[![](https://img.shields.io/badge/Website-itsfontvu.de-fcee0a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050c16)](https://itsfontvu.de/)
 [![](https://img.shields.io/badge/Twitter-@f0ntvu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=050c16)](https://twitter.com/f0ntvu)
 [![](https://img.shields.io/badge/Email-fontvu@pm.e-fcee0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050c16)](mailto:fontvu@pm.me)
 [![](https://img.shields.io/badge/LinkedIn-fontvu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050c16)](https://linkedin.com/in/fontvu)
