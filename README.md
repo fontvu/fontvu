@@ -13,10 +13,10 @@
   ALIAS        : "script-kiddie disguised as an office worker,
                   moonlighting as a Senior Cybersecurity Specialist."
 
-  [✓] offensive security     [✓] defensive security
+  [✓] data leak prevention  [✓] Identity Access Management
   [✓] data privacy research [✓] secure architecture
   [✓] incident response     [✓] hardening & detection
-  [✓] cloud security        [✓] threat hunting
+  [✓] cloud security
 
 └─$ _
 ```
