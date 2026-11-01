@@ -7,14 +7,16 @@
 └─$ cat /etc/identity
 
   USER         : fontvu
-  ROLE         : IT Security Engineer
+  ROLE         : Senior Cybersecurity Specialist
+  EMPLOYER     : Razer Inc.
   STATUS       : online
   ALIAS        : "script-kiddie disguised as an office worker,
-                  moonlighting as an IT Security Engineer."
+                  moonlighting as a Senior Cybersecurity Specialist."
 
   [✓] offensive security     [✓] defensive security
   [✓] data privacy research [✓] secure architecture
   [✓] incident response     [✓] hardening & detection
+  [✓] cloud security        [✓] threat hunting
 
 └─$ _
 ```
@@ -25,11 +27,33 @@
 
 ## 🧠 About Me
 
-- 🛡️ **IT Security Engineer** working across the full attack-defense spectrum.
+- 🛡️ **Senior Cybersecurity Specialist at Razer** — 6+ years across incident response, digital forensics, security monitoring and risk & compliance.
+- ☁️ Running security operations across **enterprise and AWS cloud** environments: threat detection, vulnerability assessment and incident response.
 - 🔍 Hands-on with **pentesting, vulnerability assessment**, and **threat hunting**.
 - 🧪 Passionate about **reverse engineering, malware analysis**, and **CTFs**.
 - 🏗️ Advocate of **secure SDLC**, code review, and **defense-in-depth** architecture.
 - 📚 Always learning — always sharpening the blade.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
+
+## 💼 Experience
+
+| Period | Role | Company |
+|:---|:---|:---|
+| 2026 — present | Senior Cybersecurity Specialist | Razer Inc. |
+| 2024 — 2026 | IT Security Engineer | Prudential Vietnam |
+| 2021 | IT Security Specialist | AIA Vietnam |
+| 2020 — 2021 | Technology Governance Assistant Manager | CIMB Bank Vietnam |
+| 2019 — 2020 | Information Assurance Specialist | Tenpoint7 |
+| 2018 — 2019 | IT Risk Assurance Associate | PwC Vietnam |
+
+<details>
+<summary>🎓 Education</summary>
+
+- Master's studies in Cybersecurity (degree not awarded), BTU Cottbus-Senftenberg — 2021–2023
+- B.Sc. Computer and Information Science, Auckland University of Technology × HCMUS — 2013–2017
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
 
@@ -63,6 +87,11 @@
 ![](https://img.shields.io/badge/Linux-08dfec?style=for-the-badge&logo=linux&logoColor=white&labelColor=050c16)
 ![](https://img.shields.io/badge/Git-fcee0a?style=for-the-badge&logo=git&logoColor=white&labelColor=050c16)
 
+**Cloud & Infrastructure**
+
+![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=050c16)
+
 </div>
 
 | Domain | Tooling |
@@ -74,6 +103,7 @@
 | **Detection & SIEM** | Splunk, ELK, Suricata, YARA |
 | **Forensics** | Volatility, Autopsy, Velociraptor |
 | **Scripting / Dev** | Python, Go, Bash, Docker |
+| **Cloud Security** | AWS, Azure, IAM hardening, threat detection |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff005f,100:08dfec&height=4&section=header" width="100%" alt="neon divider"/>
 
