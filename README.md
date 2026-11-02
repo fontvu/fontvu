@@ -45,8 +45,7 @@
 | 2024 — 2026 | IT Security Engineer | Prudential Vietnam |
 | 2021 | IT Security Specialist | AIA Vietnam |
 | 2020 — 2021 | Technology Governance Assistant Manager | CIMB Bank Vietnam |
-| 2019 — 2020 | Information Assurance Specialist | Tenpoint7 |
-| 2018 — 2019 | IT Risk Assurance Associate | PwC Vietnam |
+| 2017 — 2019 | IT Risk Assurance Associate | PwC Vietnam |
 
 <details>
 <summary>🎓 Education</summary>
