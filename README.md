@@ -27,7 +27,7 @@
 
 ## 🧠 About Me
 
-- 🛡️ **Senior Cybersecurity Specialist at Razer** — 6+ years across incident response, digital forensics and security monitoring.
+- 🛡️ **Senior Cybersecurity Specialist at Razer** — 6+ years across incident response, digital forensics, security monitoring and risk & compliance.
 - ☁️ Running security operations across **enterprise and AWS cloud** environments: threat detection, vulnerability assessment and incident response.
 - 🛠️ **Scripting and automation** (Python, PowerShell, Bash, SQL) for log analysis, monitoring and compliance reporting.
 - ⚖️ Working inside **ISO/IEC 27001, NIST CSF and ISMS**, plus ITGC audits and SOC 2 examinations.
@@ -72,11 +72,24 @@
 **Identity & Access**
 
 ![](https://img.shields.io/badge/CyberArk-PAM-green?style=for-the-badge&logo=cyberark&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Delinea-PAM-00539F?style=for-the-badge&logoColor=white&labelColor=050c16)
 ![](https://img.shields.io/badge/SailPoint-IGA-orange?style=for-the-badge&logo=sailpoint&logoColor=white&labelColor=050c16)
 
 **Application Security**
 
 ![](https://img.shields.io/badge/Checkmarx-SAST-purple?style=for-the-badge&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/SonarQube-SAST-4E9BCD?style=for-the-badge&logo=sonar&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Snyk-SCA-4C4A73?style=for-the-badge&logo=snyk&logoColor=white&labelColor=050c16)
+
+**Attack Surface Management**
+
+![](https://img.shields.io/badge/Group-IB%20ASM-3E5E8C?style=for-the-badge&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/watchTowr%20ASM-2B2B2B?style=for-the-badge&logoColor=white&labelColor=050c16)
+
+**Network & Edge Security**
+
+![](https://img.shields.io/badge/Akamai-WAF-FF6A00?style=for-the-badge&logo=akamai&logoColor=white&labelColor=050c16)
+![](https://img.shields.io/badge/Imperva-WAF-1B3A6B?style=for-the-badge&logoColor=white&labelColor=050c16)
 
 **Scripting & Automation**
 
@@ -101,7 +114,10 @@
 |:---|:---|
 | **Incident Response & Forensics** | Log analysis, timeline reconstruction, evidence handling, post-incident review |
 | **Detection & Monitoring** | SIEM telemetry, EDR alerting, vulnerability scanning, DLP |
-| **Identity & Access** | IAM hardening, PAM (CyberArk), IGA (SailPoint), access governance |
+| **Identity & Access** | IAM hardening, PAM (CyberArk, Delinea), IGA (SailPoint), access governance |
+| **Application Security** | SAST (Checkmarx, SonarQube), SCA (Snyk), DevSecOps |
+| **Attack Surface Management** | External exposure (Group-IB ASM, watchTowr ASM), vulnerability scanning (Qualys) |
+| **Network & Edge** | WAF / CDN / DDoS (Akamai, Imperva), network monitoring (Forescout), DLP (Forcepoint) |
 | **Risk & Compliance** | ISO/IEC 27001, NIST CSF, ISMS, ITGC audits, SOC 2 |
 | **Scripting / Automation** | Python, PowerShell, Bash, SQL |
 | **Cloud & Infrastructure** | AWS, Azure, Docker, Terraform, GitHub Actions |
