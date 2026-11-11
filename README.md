@@ -8,7 +8,7 @@
 
   USER         : fontvu
   ROLE         : Senior Cybersecurity Specialist
-  EMPLOYER     : Razer Game Services
+  EMPLOYER     : [redacted]
   STATUS       : online
   ALIAS        : "script-kiddie disguised as an office worker,
                   moonlighting as a Senior Cybersecurity Specialist."
@@ -27,7 +27,7 @@
 
 ## 🧠 About Me
 
-- 🛡️ **Senior Cybersecurity Specialist at Razer** — 6+ years across incident response, digital forensics, security monitoring and risk & compliance.
+- 🛡️ **Senior Cybersecurity Specialist at [redacted]** — 6+ years across incident response, digital forensics, security monitoring and risk & compliance.
 - ☁️ Running security operations across **enterprise and AWS cloud** environments: threat detection, vulnerability assessment and incident response.
 - 🛠️ **Scripting and automation** (Python, PowerShell, Bash, SQL) for log analysis, monitoring and compliance reporting.
 - ⚖️ Working inside **ISO/IEC 27001, NIST CSF and ISMS**, plus ITGC audits and SOC 2 examinations.
@@ -41,7 +41,7 @@
 
 | Period | Role | Company |
 |:---|:---|:---|
-| 2026 — present | Senior Cybersecurity Specialist | Razer Game Services |
+| 2026 — present | Senior Cybersecurity Specialist | [redacted] |
 | 2024 — 2026 | IT Security Engineer | Prudential Vietnam |
 | 2021 | IT Security Specialist | AIA Vietnam |
 | 2020 — 2021 | Technology Governance Assistant Manager | CIMB Bank Vietnam |
